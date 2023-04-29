@@ -10,7 +10,8 @@
  */
 
 /** Program description - To find the Golomb sequence upto n */
-
+// returns true if calculated answer matches with the expected answer
+// returns true if calculated answer matches with the expected answer
 package com.thealgorithms.dynamicprogramming;
 
 public class CountFriendsPairing {
