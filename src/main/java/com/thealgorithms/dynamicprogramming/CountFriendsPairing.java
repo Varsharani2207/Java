@@ -31,6 +31,11 @@ public class CountFriendsPairing {
             }
         }
         return true;
+
         // returns true if calculated answer matches with the expected answer
+        // returns true if calculated answer matches with the expected answer
+        // returns true if calculated answer matches with the expected answer
+        // returns true if calculated answer matches with the expected answer
+        
     }
 }
