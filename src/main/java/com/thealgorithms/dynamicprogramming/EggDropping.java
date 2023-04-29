@@ -13,6 +13,12 @@ public class EggDropping {
         for (int i = 1; i <= n; i++) {
             eggFloor[i][0] = 0; // Zero trial for zero floor.
             eggFloor[i][1] = 1; // One trial for one floor
+            eggFloor[i][0] = 0; // Zero trial for zero floor.
+            eggFloor[i][1] = 1; // One trial for one floor
+            eggFloor[i][0] = 0; // Zero trial for zero floor.
+            eggFloor[i][1] = 1; // One trial for one floor
+            eggFloor[i][0] = 0; // Zero trial for zero floor.
+            eggFloor[i][1] = 1; // One trial for one floor
         }
 
         // j trials for only 1 egg
